@@ -1,0 +1,24 @@
+name: 问题反馈
+description: 报告安装或使用问题
+title: "[Bug] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 应用版本与构建号
+      placeholder: 1.5.4 / 32
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: macOS 版本与芯片型号
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤、预期结果与实际结果
+      description: 请勿包含私人记录、完整备份或凭据。截图请先遮挡隐私。
+    validations:
+      required: true
