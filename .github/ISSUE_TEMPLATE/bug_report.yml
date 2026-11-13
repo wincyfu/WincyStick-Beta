@@ -5,8 +5,8 @@ body:
   - type: input
     id: version
     attributes:
-      label: 应用版本与构建号
-      placeholder: 1.5.4 / 32
+      label: Beta 版本
+      placeholder: Beta 0.1
     validations:
       required: true
   - type: input

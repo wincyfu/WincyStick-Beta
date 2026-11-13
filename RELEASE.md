@@ -1,26 +1,22 @@
-# WincyStick Beta 0.1 · 首次公开试用
+# WincyStick Beta 0.1
 
 把想做的事，留在眼前。
 
-本次首次通过公开仓库分发 WincyStick Beta。支持桌面便签、快捷录入、周月年回顾、搜索、Markdown 导出、Obsidian 同步与本地备份。
+WincyStick 首个公开试用版现已开放下载。
 
-## 本次适配
+- **桌面便签**：把每日事项、每周方向和每月计划留在眼前。
+- **快捷记录**：随时呼出，一次记下多条事项。
+- **周期回顾**：通过周、月、年回顾与年度热力图，看看自己的行动与积累。
+- **连接 Obsidian**：同步回顾，也可以导出 Markdown。
+- **本地保存**：无需账号，支持最近删除恢复与本地备份。
+- **自己的纸面**：八种纸色，自由移动与缩放。
 
-- Beta 使用独立数据目录，不自动读取原 WincyStick 的记录。
-- 首次启动不自动启用开机启动；Obsidian 库由用户主动选择。
+## 下载与安装
 
-## 下载前请读
+免费试用，支持 Apple 芯片 Mac，需 macOS 14 或更新版本。
 
-- 版本：1.5.4，构建 32；Apple Silicon arm64，macOS 14+。
-- 当前免费测试，不包含源码；未来收费方案未定。
-- 安装包采用临时签名，尚未通过 Apple 公证，可能遇到系统拦截。
-- 请先退出原 WincyStick，避免快捷键冲突。
-- 安装步骤、数据位置、反馈入口和已知限制见仓库文档。
+下载下方 `WincyStick-Beta-0.1-arm64.zip`，解压后将应用拖入“应用程序”。本版尚未通过 Apple 公证，首次打开可能遇到系统拦截，详见[安装指南](https://github.com/wincyfu/WincyStick-Beta/blob/main/INSTALL.md)。
 
-## 验证
+## 反馈
 
-已通过 Release 构建及现有独立逻辑检查（含撤销、同步、读写保护、导出等回归）；已核对包内版本 1.5.4 / 32、arm64 架构、临时签名完整性及随包 SHA256。多屏、睡眠、输入法与长期使用仍需真实设备反馈；本次不宣称全部交互已验收。
-
-## 版本对应
-
-公开编号 **Beta 0.1** → 内部应用 **1.5.4 / 32** → 私有源码 `25b6897acdac1ff0943be3add2a3236d2652aa7a`（`v1.5.4`）。详见 VERSIONING.md 与包内 version-map.json。
+遇到问题或有使用建议，欢迎[提交反馈](https://github.com/wincyfu/WincyStick-Beta/issues/new/choose)。请附 Beta 版本、macOS 版本和复现步骤，并遮挡私人信息。
