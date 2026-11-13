@@ -1,0 +1,14 @@
+{
+  "public_version": "Beta 0.1",
+  "public_tag": "beta0.1",
+  "internal_app_version": "1.5.4",
+  "internal_build": "32",
+  "source_repository": "wincyfu/WincyStick",
+  "source_commit": "25b6897acdac1ff0943be3add2a3236d2652aa7a",
+  "source_tag": "v1.5.4",
+  "bundle_identifier": "com.wincy.wincystick",
+  "architecture": "arm64",
+  "minimum_macos": "14.0",
+  "data_directory": "~/Library/Application Support/WincyStick Beta/",
+  "artifact": "WincyStick-Beta-0.1-arm64.zip"
+}
