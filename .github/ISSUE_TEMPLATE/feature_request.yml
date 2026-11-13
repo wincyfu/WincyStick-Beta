@@ -1,0 +1,14 @@
+name: 使用建议
+description: 描述你遇到的场景与需要
+title: "[建议] "
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: 你想完成什么，目前在哪里卡住？
+    validations:
+      required: true
+  - type: textarea
+    id: workaround
+    attributes:
+      label: 你现在怎样解决？希望有什么变化？
