@@ -8,7 +8,7 @@
 
 ## 安装
 
-1. 从本仓库 Releases 下载 `WincyStick-Beta-1.5.4-arm64.zip`；可用同页 SHA256 文件校验完整性。
+1. 从本仓库 Releases 下载 `WincyStick-Beta-0.1-arm64.zip`；可用同页 SHA256 文件校验完整性。
 2. 解压，将 `WincyStick Beta.app` 拖到“应用程序”目录。
 3. 退出原 WincyStick 后打开 Beta。若系统阻止打开，阅读系统提示，并在确认下载来源后前往“系统设置 → 隐私与安全性”，查看是否提供“仍要打开”。不同 macOS 版本提示可能不同。
 4. 若设备管理策略不允许打开，请停止安装并提交反馈。不需要关闭 Gatekeeper 或 SIP。
