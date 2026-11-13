@@ -4,9 +4,11 @@
 
 一款面向 macOS 的本地桌面便签，将每日事项、周月计划和周期回顾放在一起。适合希望随手记录、持续行动，也愿意回看自己做过什么的人。
 
-**当前：免费公开 Beta · 1.5.4（构建 32）· Apple 芯片 Mac · macOS 14+**
+**当前：免费公开 Beta 0.1 · 内部版本 1.5.4（构建 32）· Apple 芯片 Mac · macOS 14+**
 
-[下载试用版](https://github.com/wincyfu/WincyStick-Beta/releases/tag/v1.5.4-beta.1) · [安装说明](INSTALL.md) · [反馈问题](https://github.com/wincyfu/WincyStick-Beta/issues/new/choose)
+[下载试用版](https://github.com/wincyfu/WincyStick-Beta/releases/tag/beta0.1) · [安装说明](INSTALL.md) · [反馈问题](https://github.com/wincyfu/WincyStick-Beta/issues/new/choose)
+
+[公开版与自用版版本对应](VERSIONING.md) · [机器可读版本记录](version-map.json)
 
 ## 可以做什么
 
