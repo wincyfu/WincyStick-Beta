@@ -4,9 +4,9 @@
 
 WincyStick 是一款轻巧的 Mac 桌面便签。随手记下今天要做的事，把周月计划留在桌面一角，再通过回顾看见自己的行动与积累。
 
-[下载 Beta 0.1](https://github.com/wincyfu/WincyStick-Beta/releases/tag/beta0.1) · [安装指南](INSTALL.md) · [反馈与建议](https://github.com/wincyfu/WincyStick-Beta/issues/new/choose)
+**暂未开放下载。** 开放后会在这里更新。
 
-免费试用 · Apple 芯片 Mac · macOS 14 及以上
+ Apple 芯片 Mac · macOS 14 及以上
 
 ## 随手记，不打断
 
@@ -24,22 +24,9 @@ WincyStick 是一款轻巧的 Mac 桌面便签。随手记下今天要做的事�
 
 八种纸色，自由移动和缩放。记录保存在本机，无需注册账号；提供最近删除恢复与本地备份。
 
-## 开始使用
-
-1. 下载并解压，将 WincyStick Beta 拖入“应用程序”。
-2. 打开便签，在今天写下一件事，按 Enter 保存。
-3. 完成后勾选，积累记录后打开“回顾与归档”。
-
-| 操作 | 快捷键 |
-| --- | --- |
-| 显示主便签 | Control + Option + Command + P |
-| 打开快捷记录 | Control + Option + J |
-| 保存快捷记录 | Command + Return |
-| 添加补充备注 | Shift + Enter |
-
 ## 试用说明
 
-当前为免费 Beta，尚未通过 Apple 公证，首次打开可能遇到系统拦截，请参阅[安装指南](INSTALL.md)。目前仅支持 Apple 芯片 Mac，暂不支持手机同步与 AI 功能。
+当前暂未开放下载。Beta 尚未通过 Apple 公证，首次打开可能遇到系统拦截，请参阅[安装指南](INSTALL.md)。目前仅支持 Apple 芯片 Mac，暂不支持手机同步与 AI 功能。
 
 [已知限制](KNOWN_ISSUES.md) · [隐私说明](PRIVACY.md) · [试用条款](TERMS.md)
 
